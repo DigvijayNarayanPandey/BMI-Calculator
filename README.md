@@ -14,7 +14,7 @@ A simple web-based Body Mass Index (BMI) calculator built using HTML, CSS, and J
 ## Demo
 
 You can check out the live demo of the BMI Calculator here:  
-[Live Demo](https://digvijaynarayanpandey.github.io/BMI-Calculator/)
+[Live Demo]( https://digvijaynarayanpandey.github.io/BMI-Calculator/)
 
 ## Installation
 
